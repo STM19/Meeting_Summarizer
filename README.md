@@ -6,6 +6,7 @@ STM_19 Summarizer is a Chrome extension that generates meeting transcripts and s
 ## How to run
 
 ### How to add pickle file (ML model)
+- As pickle file is above 1.3 gb it cannot be uploaded here, follow the  below steps to get pickle file
 - got to [drive_link](https://drive.google.com/file/d/1RO6grOqxrBPxxGWhv842ajJlOAnmIJs-/view?usp=share_link) and download zip file
 - unzip it and cut and paste it in the folder where all files are present or in folder where repo is cloned.
 
